@@ -1,0 +1,1 @@
+import{o as e,c as a,a as t,b as s,N as o}from"./index.ff596396.js";const c={class:"main-content"},n=s("h1",null,"This is an about page",-1),p={__name:"AboutView",setup(r){return(_,i)=>(e(),a("div",c,[t(o),n]))}};export{p as default};

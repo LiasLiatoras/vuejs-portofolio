@@ -1,0 +1,1 @@
+import{o as a,c as t,a as s,F as c,b as e,N as n}from"./index.ff596396.js";const o=e("div",{class:"about"},[e("h1",null,"This is an contact page")],-1),u={__name:"ContactView",setup(_){return(r,l)=>(a(),t(c,null,[s(n),o],64))}};export{u as default};

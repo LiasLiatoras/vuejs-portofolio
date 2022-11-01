@@ -1,0 +1,1 @@
+import{o as a,c as s,a as t,F as _,b as e,N as n}from"./index.ff596396.js";const o=e("div",{class:"about"},[e("h1",null,"This is an resume page")],-1),i={__name:"ResumeView",setup(c){return(r,u)=>(a(),s(_,null,[t(n),o],64))}};export{i as default};
