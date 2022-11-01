@@ -11,31 +11,41 @@
 }
 
 .sidebar {
-  width: 280px;
+  position: sticky;
+  width: 100%;
   background-color: red;
   height: 600px;
-  border: 2px solid white;
+  border: 2px solid #383838;
   border-radius: 18px;
+  background: #1E1E20;
 }
 
 .main-content {
-  width: 900px;
-  background-color: green;
+  width: 100%;
+  border: 2px solid #383838;
+  border-radius: 18px;
+  background: #1E1E20;
+  margin-top: 1rem;
 }
 
-/* a,
-.green {
-  text-decoration: none;
-  color: hsla(160, 100%, 37%, 1);
-  transition: 0.4s;
-} */
-@media (hover: hover) {
-  /* a:hover {
-    background-color: hsla(160, 100%, 37%, 0.2);
-  } */
+.btn {
+  background: #2B2B2C;
+  border-radius: 18px;
+  width: fit-content;
+  margin-top: 0.3rem;
+  padding: 0.3rem 0.8rem;
 }
 
-@media (min-width: 1250px) {
+@media (min-width: 1280px) {
+  .sidebar {
+    width: 280px;
+  }
+
+  .main-content {
+    width: 900px;
+    margin-top: 0;
+  }
+
   /* body {
     display: flex;
     place-items: center;

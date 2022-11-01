@@ -3,6 +3,10 @@ import Navbar from "./../components/Navbar.vue";
 </script>
 
 <template>
-    <Navbar />
-    <div>dfsfsd</div>
+<div class="main-content">
+  <Navbar />
+  <div>
+    <h1>HOME</h1>
+  </div>
+</div>
 </template>
