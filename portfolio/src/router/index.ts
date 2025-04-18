@@ -18,7 +18,7 @@ const routes: Array<RouteRecordRaw> = [
 ]
 
 const router = createRouter({
-  history: createWebHashHistory('/vuejs-portofolio/'),
+  history: createWebHashHistory(),
   routes
 })
 
