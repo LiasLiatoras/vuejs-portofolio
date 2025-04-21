@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkportfolio"]=self["webpackChunkportfolio"]||[]).push([[594],{8604:function(t,o,n){n.r(o),n.d(o,{default:function(){return c}});var u=n(6768),e=n.p+"img/profile-photo.34f0656c.png";const r={class:"about"};function s(t,o){return(0,u.uX)(),(0,u.CE)("div",r,o[0]||(o[0]=[(0,u.Lk)("h1",null,"This is an about page test",-1),(0,u.Lk)("img",{alt:"Vue logo test",src:e},null,-1)]))}var l=n(1241);const a={},i=(0,l.A)(a,[["render",s]]);var c=i}}]);
-//# sourceMappingURL=about.b9d53ff5.js.map
